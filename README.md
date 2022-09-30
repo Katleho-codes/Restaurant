@@ -4,10 +4,10 @@
 
 ##### They go like:
 
-[x] Home
-[x] Team
-[x] Connect
-[] Menu
+- [x] Home
+- [x] Team
+- [x] Connect
+- [] Menu
 
 ### Links used
 
