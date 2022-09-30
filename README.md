@@ -7,7 +7,7 @@
 - [x] Home
 - [x] Team
 - [x] Connect
-- [] Menu
+- [ ] Menu
 
 ### Links used
 
@@ -15,6 +15,3 @@
 - [Bootstrap 5] (https://getbootstrap.com)
 - Images: [Unsplash] (https://unsplash.com)
 
-#### Issues
-
-**Menu is empty. Feel free to populate it** #1
